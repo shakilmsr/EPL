@@ -15,6 +15,7 @@ const Navbar = () => {
               <div>
                 <span className="text-xl font-bold text-brand-gray">EPL</span>
                 <span className="text-xl font-bold text-brand-blue">Solutions</span>
+                <span className="text-xl font-bold text-brand-gray">Inc</span>
               </div>
             </Link>
           </div>
